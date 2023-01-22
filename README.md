@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitmahato" alt="amitmahato" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/me_amit_mahato" target="blank"><img src="https://img.shields.io/twitter/follow/me_amit_mahato?logo=twitter&style=for-the-badge" alt="me_amit_mahato" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain with Ethereum Developer Bootcamp at Alchemy University**
+- 🌱 I’m currently learning **Blockchain with Ethereum Developer Bootcamp at [Alchemy University](https://university.alchemy.com/)**
 
-- 💬 Ask me about **javascript, typescript, react, golang**
+- 💬 Ask me about **javascript, typescript, react, golang, solidity**
 
 - 📫 How to reach me **mahatoa90@gmail.com**
 
